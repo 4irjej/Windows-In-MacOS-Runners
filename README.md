@@ -17,13 +17,13 @@
     
 1. go to `launchpad` in second page and click 'Virtualbox'
 
-2. Click `New Virtual Machine` button on the left of `This workflow has a workflow_dispatch event trigger` line.
+2. Click `New Virtual Machine` button 
 
 3. Enter Your VM Name And Choose Windows Server 2012,2016,2019 or 2022
 
-4. Go to https://dashboard.ngrok.com/status/tunnels and check if theres a one online tunnel running.
+4. Adjust Your Memory to 9 GB
 
-5. Copy the link(**without tcp://**) and go to VNC Viewer(Download and install it), input the link to connect area u copied from the website.
+5. Create Virtual Hard Disk Follow Instructions
 
 6. Fill in those login info, within username `Avishkar`and password from `VNC_PASSWORD` you typed.
 
