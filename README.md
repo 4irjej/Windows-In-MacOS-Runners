@@ -21,11 +21,11 @@ Windows 8,8.1 ISO Download
 
 Iso Download Link
 
-Windows 7: https://rb.gy/pcennx
-
 Windows 8: https://rb.gy/rdiybx
 
 Windows 8.1:https://rb.gy/sceoj0
+
+Windows 10 1507:https://rb.gy/wyauf3
 
 
 ## Deloy and Run
