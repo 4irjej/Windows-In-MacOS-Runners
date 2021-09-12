@@ -21,7 +21,7 @@ Windows 8,8.1 ISO Download
 
 Iso Download Link
 
-Windows 7: Coming Soon
+Windows 7: https://rb.gy/6zyukn
 
 Windows 8: https://rb.gy/rdiybx
 
