@@ -25,8 +25,7 @@ Windows 8: https://rb.gy/rdiybx
 
 Windows 8.1:https://rb.gy/sceoj0
 
-Windows 10 1507:https://rb.gy/wyauf3
-
+Windows 10:https://rb.gy/pyeijr
 
 ## Deloy and Run
 <details>
