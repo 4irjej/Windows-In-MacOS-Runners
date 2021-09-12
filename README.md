@@ -107,5 +107,5 @@ DON'T USE FOR MINING OR ILLEGAL USE
 ```
     
 - Reminders:
-:Warning: Dont close this windows which called "**ngrok.exe**", it will cause the ngrok tunneling process to be stopped and disconnect from Windows RDP.
+ Dont close this windows which called "**ngrok.exe**", it will cause the ngrok tunneling process to be stopped and disconnect from Windows RDP.
 <img src="https://raw.githubusercontent.com/4irjej/images/main/Screenshots/ngrok%20terminal.png">
