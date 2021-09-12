@@ -21,7 +21,7 @@ Windows 8,8.1 ISO Download
 
 Iso Download Link
 
-Windows 7: https://rb.gy/tdqqvd
+Windows 7: https://rb.gy/pcennx
 
 Windows 8: https://rb.gy/rdiybx
 
