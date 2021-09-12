@@ -2,7 +2,7 @@
 
 ## Setting up:
 
-First Link:https://github.com/4irjej/all-in-one-vps
+Link To Repo If You Havent Do.:https://github.com/4irjej/all-in-one-vps
 
 Windows Server ISO Download
 
