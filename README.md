@@ -1,6 +1,9 @@
 # Windows-In-MacOS-Runners
 
 ## Setting up:
+
+Windows Server ISO Download
+
 1. Set Up The Mac
 2. Go To Safari
 3. Search 'windows server iso download'
@@ -9,6 +12,15 @@
 6. regester the form in random
 7. select Windows Archistructure and language and download
 8. Click 'Allow'
+
+Windows 8,8.1 ISO Download
+
+Iso Download Link
+
+Windows 8:
+
+Windows 8.1:
+
 
 ## Deloy and Run
 <details>
@@ -19,12 +31,18 @@
 
 2. Click `New Virtual Machine` button 
 
-3. Enter Your VM Name And Choose Windows Server 2012,2016,2019 or 2022
+3. Enter Your VM Name And Choose Your Windows Version 8 or 8.1 or server versions
 
 4. Adjust Your Memory to 9 GB
 
-5. Create Virtual Hard Disk Follow Instructions
+5. Create Virtual Hard Disk Follow Instructions And Adjust Storage Size
 
-6. Fill in those login info, within username `Avishkar`and password from `VNC_PASSWORD` you typed.
+6. Click Settings
 
-7. Enjoy!
+7. Go To Systen Section
+    
+8. Click Processor And Choose 2 VCPU
+    
+9. Go To Storage And Click On Empty CD
+    
+10.
