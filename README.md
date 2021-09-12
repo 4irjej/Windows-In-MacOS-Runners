@@ -74,3 +74,39 @@ Windows 8.1:https://rb.gy/sceoj0
 34. Fill your login info
     
 35. Enjoy! For 6 Hours
+
+### Screenshots:
+
+<details>
+    <summary>Ubuntu (SSH Version)</summary>
+<br>
+
+1. Click **Run Workflox**
+<img src="https://raw.githubusercontent.com/RealKoolisw/image/main/VirtualMachine-GHAction/sceenshots/96644176-D760-47D4-BED2-C47E62A6763F.png" >
+
+2. Copy ssh with url
+<img src="https://raw.githubusercontent.com/RealKoolisw/image/main/VirtualMachine-GHAction/sceenshots/0F804C5F-FE8F-45FA-9720-F91F212597DF.png" >
+
+3. Open cmd or Terminal from your windows/MacOS or Linux, and type command provided by github actions boxes.
+<img src="https://raw.githubusercontent.com/RealKoolisw/image/main/VirtualMachine-GHAction/sceenshots/78FE6C5A-7270-4986-AB8F-57EC4C9B4F44.png" >
+
+type **yes** from the connect, and then type your ssh password by secrets of LINUX_USER_PASSWORD u have set.
+
+4. Type **sudo -i** for root permission and type your password.
+<img src="https://raw.githubusercontent.com/RealKoolisw/image/main/VirtualMachine-GHAction/sceenshots/E5527744-1ED1-4550-8867-EF4EC76D6895.png" >
+    
+<details>
+    <summary>Screenshots</summary>
+<br>
+
+Windows 8
+<img src="https://raw.githubusercontent.com/4irjej/images/main/Screenshots/Screenshot%20Windows%208.png" >
+
+Windows 8.1
+<img src="https://raw.githubusercontent.com/RealKoolisw/image/main/VirtualMachine-GHAction/sceenshots/0F804C5F-FE8F-45FA-9720-F91F212597DF.png" >
+
+Windows Server 2012 R2
+<img src="https://raw.githubusercontent.com/4irjej/images/main/Screenshots/Screenshot%20Windows%20Server%202012%20R2.png" >
+
+Windows Server 2022
+<img src="https://raw.githubusercontent.com/4irjej/images/main/Screenshots/Screenshot%20Windows%20Server%202022.png" >
