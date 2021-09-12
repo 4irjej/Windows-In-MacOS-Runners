@@ -2,6 +2,8 @@
 
 ## Setting up:
 
+First Link:https://github.com/4irjej/all-in-one-vps
+
 Windows Server ISO Download
 
 1. Set Up The Mac
@@ -24,8 +26,7 @@ Windows 8.1:https://rb.gy/sceoj0
 
 ## Deloy and Run
 <details>
-    <summary>Installation Process</summary>
-<br>
+    <summary>Installation Process</summary> <br>
     
 1. go to `launchpad` in second page and click 'Virtualbox'
 
@@ -57,11 +58,11 @@ Windows 8.1:https://rb.gy/sceoj0
     
 15. Follow Installation Instructions And Create Password For RDP Connection
   
-17. Download Ngrok Using The Link: rb.gy/n4rmvr
+17. Download Ngrok Using The Link (Download Chrome Or Add Htpps:// If Not Working): https://rb.gy/n4rmvr
     
 18. Go To Downloads Folder And Then Extract The File
     
-19. Download Authtoken Command File Using The Link:
+19. Download Authtoken Command File Using The Link (You can download the file if its not working):https://rb.gy/s3b1e2
     
 20: Right Click then choose properties
     
@@ -75,38 +76,36 @@ Windows 8.1:https://rb.gy/sceoj0
     
 35. Enjoy! For 6 Hours
 
-### Screenshots:
+</details>
 
-<details>
-    <summary>Ubuntu (SSH Version)</summary>
-<br>
 
-1. Click **Run Workflox**
-<img src="https://raw.githubusercontent.com/RealKoolisw/image/main/VirtualMachine-GHAction/sceenshots/96644176-D760-47D4-BED2-C47E62A6763F.png" >
-
-2. Copy ssh with url
-<img src="https://raw.githubusercontent.com/RealKoolisw/image/main/VirtualMachine-GHAction/sceenshots/0F804C5F-FE8F-45FA-9720-F91F212597DF.png" >
-
-3. Open cmd or Terminal from your windows/MacOS or Linux, and type command provided by github actions boxes.
-<img src="https://raw.githubusercontent.com/RealKoolisw/image/main/VirtualMachine-GHAction/sceenshots/78FE6C5A-7270-4986-AB8F-57EC4C9B4F44.png" >
-
-type **yes** from the connect, and then type your ssh password by secrets of LINUX_USER_PASSWORD u have set.
-
-4. Type **sudo -i** for root permission and type your password.
-<img src="https://raw.githubusercontent.com/RealKoolisw/image/main/VirtualMachine-GHAction/sceenshots/E5527744-1ED1-4550-8867-EF4EC76D6895.png" >
-    
-<details>
-    <summary>Screenshots</summary>
-<br>
+<summary>Screenshots</summary>
 
 Windows 8
 <img src="https://raw.githubusercontent.com/4irjej/images/main/Screenshots/Screenshot%20Windows%208.png" >
 
 Windows 8.1
-<img src="https://raw.githubusercontent.com/RealKoolisw/image/main/VirtualMachine-GHAction/sceenshots/0F804C5F-FE8F-45FA-9720-F91F212597DF.png" >
+<img src="https://raw.githubusercontent.com/4irjej/images/main/Screenshots/Screenshot%20Windows%208.1.png" >
 
 Windows Server 2012 R2
 <img src="https://raw.githubusercontent.com/4irjej/images/main/Screenshots/Screenshot%20Windows%20Server%202012%20R2.png" >
 
 Windows Server 2022
 <img src="https://raw.githubusercontent.com/4irjej/images/main/Screenshots/Screenshot%20Windows%20Server%202022.png" >
+
+</details>
+
+
+<details>
+    <summary>⚠ Warnings </summary>
+<br>
+    
+```py
+THIS IS ONLY FOR EDUCATIONAL PURPOSES
+
+DON'T USE FOR MINING OR ILLEGAL USE    
+```
+    
+- Reminders:
+:Warning: Dont close this windows which called "**ngrok.exe**", it will cause the ngrok tunneling process to be stopped and disconnect from Windows RDP.
+<img src="https://raw.githubusercontent.com/4irjej/images/main/Screenshots/ngrok%20terminal.png">
