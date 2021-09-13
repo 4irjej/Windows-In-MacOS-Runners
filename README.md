@@ -15,7 +15,7 @@ Windows Server ISO Download
 7. select Windows Archistructure and language and download
 8. Click 'Allow'
 
-Windows Server 2008: https://rb.gy/1zysn0
+
 
 Windows 8,8.1 ISO Download
 
