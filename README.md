@@ -90,14 +90,14 @@ Windows 8
 Windows 8.1
 <img src="https://raw.githubusercontent.com/4irjej/images/main/Screenshots/Screenshot%20Windows%208.1.png" >
 
+Windows 10
+<img src="https://raw.githubusercontent.com/4irjej/images/main/Screenshots/Screenshot%20Windows%2010.png" >
+
 Windows Server 2012 R2
 <img src="https://raw.githubusercontent.com/4irjej/images/main/Screenshots/Screenshot%20Windows%20Server%202012%20R2.png" >
 
 Windows Server 2022
 <img src="https://raw.githubusercontent.com/4irjej/images/main/Screenshots/Screenshot%20Windows%20Server%202022.png" >
-
-Windows 10
-<img src="https://raw.githubusercontent.com/4irjej/images/main/Screenshots/Screenshot%20Windows%2010.png" >
 
 Behind The Scenes
 <img src="https://raw.githubusercontent.com/4irjej/images/main/Screenshots/Host%20Machine.png" >
