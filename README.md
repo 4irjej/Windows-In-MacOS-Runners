@@ -27,7 +27,7 @@ Windows 8.1:https://rb.gy/sceoj0
 
 Windows 10:https://rb.gy/pyeijr
 
-## Deloy and Run
+## Deploy and Run
 <details>
     <summary>Installation Process</summary> <br>
     
