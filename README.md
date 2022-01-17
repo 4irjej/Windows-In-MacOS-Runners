@@ -1,6 +1,5 @@
 # Windows-In-MacOS-Runners-With-Virtualbox
-
-Note: This Method Is Archived Because The Old Github Repo is No Longer Supported
+Announcement: Github Action is deprecated and no longer updated
 
 ## Setting up:
 
