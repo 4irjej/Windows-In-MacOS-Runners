@@ -1,6 +1,6 @@
-# Windows In Mac Mini With Virtualbox
+# Windows-In-MacOS-Runners-With-Virtualbox
 
-Note: You Need To Own A Mac Mini Because The Old Github Repo is no longer working
+Note: This Method Is Archived Because The Old Github Repo is No Longer Supported
 
 ## Setting up:
 
