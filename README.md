@@ -1,8 +1,8 @@
-# Windows-In-MacOS-Runners-With-Virtualbox
+# Windows In Mac Mini With Virtualbox
+
+Note: You Need To Own A Mac Mini Because The Old Github Repo is no longer working
 
 ## Setting up:
-
-Link To Repo If You Havent Do.:https://github.com/4irjej/all-in-one-vps
 
 Windows Server ISO Download
 
