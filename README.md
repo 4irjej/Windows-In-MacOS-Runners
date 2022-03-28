@@ -26,7 +26,6 @@ Windows 8: https://rb.gy/rdiybx
 
 Windows 8.1:https://rb.gy/sceoj0
 
-Windows 10:https://rb.gy/pyeijr
 
 ## Deploy and Run
 <details>
@@ -66,7 +65,7 @@ Windows 10:https://rb.gy/pyeijr
     
 18. Go To Downloads Folder And Then Extract The File
     
-19. Download Authtoken Command File Using The Link (You can download the file if its not working):https://rb.gy/s3b1e2
+19. Download Authtoken Command File Using The Link (You can download the file if its not working):https://rb.gy/hude02
     
 20: Right Click then choose properties
     
@@ -90,9 +89,6 @@ Windows 8
 
 Windows 8.1
 <img src="https://raw.githubusercontent.com/4irjej/images/main/Screenshots/Screenshot%20Windows%208.1.png" >
-
-Windows 10
-<img src="https://raw.githubusercontent.com/4irjej/images/main/Screenshots/Screenshot%20Windows%2010.png" >
 
 Windows Server 2012 R2
 <img src="https://raw.githubusercontent.com/4irjej/images/main/Screenshots/Screenshot%20Windows%20Server%202012%20R2.png" >
